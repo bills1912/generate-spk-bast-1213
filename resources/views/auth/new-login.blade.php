@@ -21,7 +21,7 @@
                                     @csrf
                                     <div class="form-group">
                                         <input type="email" class="form-control form-control-user" id="exampleInputEmail"
-                                            name="email" aria-describedby="emailHelp" placeholder="Masukkan Email"
+                                            name="email" aria-describedby="emailHelp" placeholder="Masukkan Email" 
                                             required>
                                     </div>
                                     <div class="form-group">
