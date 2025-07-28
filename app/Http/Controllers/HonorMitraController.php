@@ -204,7 +204,7 @@ class HonorMitraController extends Controller
             ];
             $idx++;
         }
-        $templateSPK = new TemplateProcessor('assets/doc_template/SPK_template.docx');
+        $templateSPK = new TemplateProcessor('assets/doc_template/SPK_Template.docx');
         $templateSPK->cloneBlock('spk', sizeof($data_mitra_spk), true, false, $arr_mitra);
         $i = 0;
         $groupData = [];
