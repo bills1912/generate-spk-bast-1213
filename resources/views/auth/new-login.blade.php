@@ -14,7 +14,7 @@
                             
                             <div class="p-5">
                                 <div class="text-center">
-                                    <img class="logo-bps-gusit mb-3" src="{{ url('/') }}/img/bps-gusitv2.png" alt="">
+                                    <img class="logo-bps-gusit mb-3" src="{{ url('/') }}/img/bps-langkat.png" alt="">
                                     <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                                 </div>
                                 <form method="POST" action="{{ route('login') }}" class="user">
